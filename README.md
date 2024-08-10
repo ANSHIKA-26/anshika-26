@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anshika Arora</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Anshika Arora</h1>
+<h3 align="center">A passionate frontend developer from India</h3> -->
+
+<p align="center">
+  <img src="./assets/recording (9).gif" alt="Hi I am Anshika !">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika-26&label=Profile%20views&color=0e75b6&style=flat" alt="anshika-26" /> </p>
 
