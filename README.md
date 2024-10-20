@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Helping Hands](https://github.com/ANSHIKA-26/Helping_Hands)
 
-- 🌱 I’m currently learning **Cpp,React,**
+- 🌱 I’m currently learning **web development **
 
 - 💬 Ask me about **data structures and algorithms**
 
